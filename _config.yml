@@ -1,1 +1,5 @@
-theme: jeykll-theme-slate
+title: Chris Kmetz
+description: Testing for Resume Site
+#show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
