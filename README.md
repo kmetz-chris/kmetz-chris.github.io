@@ -1,6 +1,6 @@
 # **Project List**
 ## Electronic Game Board
-<sub>August 2024 to PRESENT</sub>
+<sup>August 2024 to PRESENT</sup>
 August 2024 to PRESENT
 Testing our some writting and what that would look like on the website
 
