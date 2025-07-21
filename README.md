@@ -20,7 +20,9 @@ Make it portable and easy to use
 
 This project reimagines classic tabletop gaming by embedding an 8×8 grid of magnetic reed switches beneath a translucent playing surface. Each tile can illuminate in four colors to convey legal moves, visual cues, and messages, while a side‑mounted LCD screen provides clear status updates, instructions, and feedback. Built around an Arduino GIGA R1 Wi‑Fi, we created the board’s entire firmware and API as open‑source, empowering anyone to develop, extend, and share new games. By meshing hands‑on interaction with dynamic electronics and intuitive on‑screen guidance, the board encourages face‑to‑face play while fostering a vibrant developer community.
 
-[Documentation](https://drive.google.com/uc?export=download&id=1U4pKd64izw8tKl4V7rxhIjDhB5MH5MYS)
+[Preliminary Design](https://drive.google.com/uc?export=download&id=1U4pKd64izw8tKl4V7rxhIjDhB5MH5MYS)
+[Test Results and Conclusions](https://drive.google.com/uc?export=download&id=19E9zmEoRsXaCVWKCJZNxGA-2v07nwN2L)
+
 
 ## **Currency Converter**
 
@@ -41,6 +43,8 @@ Let users enter an amount, convert it, and display the result
 ### Description:
 
 This Python currency converter ties together geographic context and live financial data in one GUI. On startup it reads UNDict.dat, which lists each UN member’s name, continent, population , and area, into a dictionary. Users pick a country from an ordered list, instantly revealing its continent, population, and area. Behind the scenes a lightweight web sweep retrieves up‑to‑date exchange rates so that, with a single click, any entered amount is converted and displayed alongside the rate used. The result is a straightforward, informative tool that blends country metadata with real‑time currency conversion in an easy‑to‑use interface.
+
+[Python Code](https://drive.google.com/uc?export=download&id=1-DG0o_R1mMtePjM1dkZnr370v8BHsMB8)
 
 ## **Self-cooling Fan**
 
