@@ -1,6 +1,3 @@
-# **Project List**
-
-
 ## **Electronic Game Board**
 
 
