@@ -20,6 +20,8 @@ Make it portable and easy to use
 
 This project reimagines classic tabletop gaming by embedding an 8×8 grid of magnetic reed switches beneath a translucent playing surface. Each tile can illuminate in four colors to convey legal moves, visual cues, and messages, while a side‑mounted LCD screen provides clear status updates, instructions, and feedback. Built around an Arduino GIGA R1 Wi‑Fi, we created the board’s entire firmware and API as open‑source, empowering anyone to develop, extend, and share new games. By meshing hands‑on interaction with dynamic electronics and intuitive on‑screen guidance, the board encourages face‑to‑face play while fostering a vibrant developer community.
 
+[link text](https://drive.google.com/drive/folders/1cZMvOd7qbFIAytQBd03h56tROSMk26yl?usp=drive_link)
+
 ## **Currency Converter**
 
 May 2023 - June 2023
