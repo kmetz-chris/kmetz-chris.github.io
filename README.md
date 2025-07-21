@@ -1,7 +1,7 @@
 # **Project List**
 
 
-##Electronic Game Board
+##**Electronic Game Board**
 
 
 August 2024 - PRESENT
