@@ -1,9 +1,13 @@
 # **Project List**
+
+
 ##Electronic Game Board
+
 
 August 2024 - PRESENT
 
 ###Project Goals
+
 
 Detect each piece with magnetic reed switches
 
