@@ -1,7 +1,7 @@
 ## **Electronic Game Board**
 
 
-August 2024 - PRESENT
+<sup> August 2024 - PRESENT </sup>
 
 ### Project Goals
 
@@ -27,7 +27,7 @@ This project reimagines classic tabletop gaming by embedding an 8×8 grid of mag
 
 ## **Currency Converter**
 
-May 2023 - June 2023
+<sup> May 2023 - June 2023 </sup>
 
 ### Project Goals
 
