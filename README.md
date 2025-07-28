@@ -22,8 +22,7 @@ This project reimagines classic tabletop gaming by embedding an 8×8 grid of mag
 [Test Results and Conclusions](https://drive.google.com/uc?export=download&id=19E9zmEoRsXaCVWKCJZNxGA-2v07nwN2L)
 
 
-## **Currency Converter**
-<sub> <span style="color: gray;">May 2023 - June 2023</span> </sub>
+## **Currency Converter** <sub> <span style="color: gray;">May 2023 - June 2023</span> </sub>
 
 ### Project Goals
 
@@ -43,8 +42,7 @@ This Python currency converter ties together geographic context and live financi
 
 [Python Code](https://drive.google.com/uc?export=download&id=1-DG0o_R1mMtePjM1dkZnr370v8BHsMB8)
 
-## **Temperature-Based Fan Controller**
-<sub> <span style="color: gray;">August 2024 - December 2024</span> </sub>
+## **Temperature-Based Fan Controller** <sub> <span style="color: gray;">August 2024 - December 2024</span> </sub>
 
 ### Goals:
 
