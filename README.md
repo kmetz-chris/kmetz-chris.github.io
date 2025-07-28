@@ -1,5 +1,4 @@
-## **Electronic Game Board**
-<sup> August 2024 - PRESENT </sup>
+## **Electronic Game Board** <sup> August 2024 - PRESENT </sup>
 
 ### Project Goals
 
