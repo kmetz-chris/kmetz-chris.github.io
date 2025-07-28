@@ -1,6 +1,4 @@
 ## **Electronic Game Board**
-
-
 <sup> August 2024 - PRESENT </sup>
 
 ### Project Goals
@@ -26,7 +24,6 @@ This project reimagines classic tabletop gaming by embedding an 8×8 grid of mag
 
 
 ## **Currency Converter**
-
 <sup> May 2023 - June 2023 </sup>
 
 ### Project Goals
@@ -48,7 +45,6 @@ This Python currency converter ties together geographic context and live financi
 [Python Code](https://drive.google.com/uc?export=download&id=1-DG0o_R1mMtePjM1dkZnr370v8BHsMB8)
 
 ## **Temperature-Based Fan Controller**
-
 <sup> August 2024 - December 2024 </sup>
 
 ### Goals:
