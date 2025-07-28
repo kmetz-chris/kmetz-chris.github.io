@@ -1,8 +1,8 @@
-## **Electronic Game Board** <sub> August 2024 - PRESENT </sub>
+## **Electronic Game Board** <sub> <span style="color: gray;">August 2024 - PRESENT</span> </sub>
 
 ### Project Goals
 
-<span style="color: red;">This text is red.</span>
+
 Detect each piece with magnetic reed switches
 
 Light up tiles to show legal moves
@@ -23,7 +23,7 @@ This project reimagines classic tabletop gaming by embedding an 8×8 grid of mag
 
 
 ## **Currency Converter**
-<sup> May 2023 - June 2023 </sup>
+<sub> <span style="color: gray;">May 2023 - June 2023</span> </sub>
 
 ### Project Goals
 
@@ -44,7 +44,7 @@ This Python currency converter ties together geographic context and live financi
 [Python Code](https://drive.google.com/uc?export=download&id=1-DG0o_R1mMtePjM1dkZnr370v8BHsMB8)
 
 ## **Temperature-Based Fan Controller**
-<sup> August 2024 - December 2024 </sup>
+<sub> <span style="color: gray;">August 2024 - December 2024</span> </sub>
 
 ### Goals:
 
