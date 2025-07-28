@@ -2,7 +2,7 @@
 
 ### Project Goals
 
-
+<span style="color: red;">This text is red.</span>
 Detect each piece with magnetic reed switches
 
 Light up tiles to show legal moves
